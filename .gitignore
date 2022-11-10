@@ -1,0 +1,6 @@
+work
+results
+data/*
+!data/query*
+!data/reference.fa
+.nextflow*
